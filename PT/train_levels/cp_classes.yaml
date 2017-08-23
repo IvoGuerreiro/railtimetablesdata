@@ -1,0 +1,9 @@
+- name: First Class
+  internal_name: 1C
+- name: Second Class
+  internal_name: 2C
+- name: Conforto
+  internal_name: CONF
+- name: Turistica
+  internal_name: TUR
+  service_at_seat: true

@@ -1,0 +1,36 @@
+- name: Casa Branca
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.4980079
+  lng: -8.157670000000053
+- name: Alcaçovas
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.4068313
+  lng: -8.095568800000024
+- name: Vila Nova da Baronia
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.2936777
+  lng: -8.03513989999999
+- name: Alvito
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.2329385
+  lng: -8.000205800000003
+- name: Cuba
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.16274689999999
+  lng: -7.894229399999972
+- name: Beja
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.0187866
+  lng: -7.858471099999974

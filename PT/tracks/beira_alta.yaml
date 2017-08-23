@@ -1,0 +1,72 @@
+- name: Pampilhosa
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.3376999
+  lng: -8.430802800000038
+- name: Mortágua
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.3908905
+  lng: -8.24114480000003
+- name: Santa Comba Dão
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.3901541
+  lng: -8.124682200000052
+- name: Carregal do Sal
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.4332372
+  lng: -8.007455400000026
+- name: Nelas
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.525671
+  lng: -7.8601979999999685
+- name: Mangualde
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.586685
+  lng: -7.760303000000022
+- name: Gouveia
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.5734842
+  lng: -7.601806899999929
+- name: Fornos de Algodres
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.6104493
+  lng: -7.527199300000007
+- name: Celorico da Beira
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.6651998
+  lng: -7.382427399999983
+- name: Vila Franca das Naves
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.7248311
+  lng: -7.2582477999999355
+- name: Guarda
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.5523395
+  lng: -7.239834400000063
+- name: Vilar Formoso
+  country: PT
+  border_station: true
+  main_station: true
+  lat: 40.606181
+  lng: -6.82911230000002

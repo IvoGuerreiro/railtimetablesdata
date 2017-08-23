@@ -1,0 +1,111 @@
+#North South
+- type: TRAIN
+  company: CP
+  code: 180
+  service: AP
+  classes:
+    - CONF
+    - TUR
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Porto-Campanhã: 0547
+    V.N. Gaia: 0552
+    Aveiro: 0621
+    Coimbra B: 0646
+    Lisboa-Oriente: 0823
+    Entrecampos: 0831
+    Sete Rios:
+    Pragal: 
+    Pinhal Novo: 0906
+    Grândola: 
+    Ermidas-Sado: 
+    Funcheira: 
+    S. Clara - Sabóia: 
+    Messines-Alte: 
+    Tunes: 1054
+    Albufeira-Ferreiras: 1101
+    Loulé: 1113
+    Faro: 1123
+
+- type: TRAIN
+  company: CP
+  code: 186
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Porto-Campanhã: 1547
+    V.N. Gaia: 1552
+    Aveiro: 1621
+    Coimbra B: 1646
+    Lisboa-Oriente: 1823
+    Entrecampos: 1831
+    Sete Rios: 
+    Pragal: 
+    Pinhal Novo: 1906
+    Grândola: 
+    Ermidas-Sado: 
+    Funcheira: 
+    S. Clara - Sabóia: 
+    Messines-Alte: 
+    Tunes: 2054
+    Albufeira-Ferreiras: 2101
+    Loulé: 2113
+    Faro: 2123
+
+#South North
+
+- type: TRAIN
+  company: CP
+  code: 182
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Faro: 0700
+    Loulé: 0710
+    Albufeira-Ferreiras: 0723
+    Tunes: 0729
+    Messines-Alte: 
+    S. Clara - Sabóia: 0759
+    Funcheira: 0823
+    Ermidas-Sado: 0842
+    Grândola: 0854
+    Pinhal Novo: 0923
+    Pragal: 
+    Sete Rios: 
+    Entrecampos: 0957
+    Lisboa-Oriente: 1005
+    Lisboa-Oriente: 1009
+    Coimbra B: 1145
+    Aveiro: 1212
+    V.N. Gaia: 1238
+    Porto-Campanhã: 1244
+
+- type: TRAIN
+  company: CP
+  code: 184
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Faro: 1505
+    Loulé: 1516
+    Albufeira-Ferreiras: 1529
+    Tunes: 1535
+    Messines-Alte: 
+    S. Clara - Sabóia: 
+    Funcheira: 
+    Ermidas-Sado: 
+    Grândola: 
+    Pinhal Novo: 1723
+    Pragal: 
+    Sete Rios: 
+    Entrecampos: 1757
+    Lisboa-Oriente:
+      at: 1805
+      dt: 1809
+    Coimbra B: 1945
+    Aveiro: 2012
+    V.N. Gaia: 2028
+    Porto-Campanhã: 2044

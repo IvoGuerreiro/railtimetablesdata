@@ -1,0 +1,48 @@
+- name: Pinhal Novo
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.6299911
+  lng: -8.912979199999995
+- name: Poceirão
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.634375
+  lng: -8.741440000000011
+- name: Fernando Pó
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.63649110000001
+  lng: -8.691499399999998
+- name: Pegões
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.6623006
+  lng: -8.619353000000046
+- name: São João das Craveiras
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.667065
+  lng: -8.587623000000008
+- name: Vendas Novas
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.6795908
+  lng: -8.454027099999962
+- name: Casa Branca
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.4980079
+  lng: -8.157670000000053
+- name: Évora
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 38.558662
+  lng: -7.908454000000006

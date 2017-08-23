@@ -1,0 +1,231 @@
+#Evora Line
+
+- type: TRAIN
+  company: CP
+  code: 590
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Oriente: 0702
+    Entrecampos: 0710
+    Sete Rios: 0714
+    Pragal: 0726
+    Pinhal Novo: 0748
+    Poceirão: 0757
+    Fernando Pó: 0801
+    Pegões: 0806
+    São João das Craveiras: 0810
+    Vendas Novas: 0818
+    Casa Branca: 0832
+    Évora: 0842
+- type: TRAIN
+  company: CP
+  code: 592
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # - - Not Passing /  - Not Stopping
+    Lisboa-Oriente: 0902
+    Entrecampos: 0910
+    Sete Rios: 0914
+    Pragal: 0926
+    Pinhal Novo: 0948
+    Poceirão: 
+    Fernando Pó: 
+    Pegões: 
+    São João das Craveiras:
+    Vendas Novas: 1010
+    Casa Branca: 1024
+    Évora: 1035
+- type: TRAIN
+  company: CP
+  code: 594
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Oriente: 0952
+    Entrecampos: 1000
+    Sete Rios: 1004
+    Pragal: 1015
+    Pinhal Novo: 1032
+    Poceirão: 1041
+    Fernando Pó: 1045
+    Pegões: 1050
+    São João das Craveiras: 1054
+    Vendas Novas: 1102
+    Casa Branca: 1116
+    Évora: 1126
+- type: TRAIN
+  company: CP
+  code: 596
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Oriente: 1702
+    Entrecampos: 1710
+    Sete Rios: 1714
+    Pragal: 1726
+    Pinhal Novo: 1748
+    Poceirão: 
+    Fernando Pó: 
+    Pegões: 
+    São João das Craveiras: 
+    Vendas Novas: 1810
+    Casa Branca: 1824
+    Évora: 1835
+- type: TRAIN
+  company: CP
+  code: 598
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Oriente: 1902
+    Entrecampos: 1910
+    Sete Rios: 1914
+    Pragal: 1926
+    Pinhal Novo: 1948
+    Poceirão: 
+    Fernando Pó: 
+    Pegões: 
+    São João das Craveiras: 
+    Vendas Novas: 2010
+    Casa Branca: 2024
+    Évora: 2035
+
+#  Beja Ramal
+
+- type: TRAIN
+  company: CP
+  code: 581
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Casa Branca: 0835
+    Alcaçovas: 0844
+    Vila Nova da Baronia: 0855
+    Alvito: 0901
+    Cuba: 0912
+    Beja: 0926
+- type: TRAIN
+  company: CP
+  code: 570
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Casa Branca: 1030
+    Alcaçovas: 1039
+    Vila Nova da Baronia: 1050
+    Alvito: 1056
+    Cuba: 1107
+    Beja: 1121
+- type: TRAIN
+  company: CP
+  code: 585
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Casa Branca: 1119
+    Alcaçovas: 1128
+    Vila Nova da Baronia: 1139
+    Alvito: 1145
+    Cuba: 1156
+    Beja: 1210
+- type: TRAIN
+  company: CP
+  code: 587
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Casa Branca: 1829
+    Alcaçovas: 1838
+    Vila Nova da Baronia: 1849
+    Alvito: 1855
+    Cuba: 1906
+    Beja: 1920
+- type: TRAIN
+  company: CP
+  code: 589
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Casa Branca: 2025
+    Alcaçovas: 2034
+    Vila Nova da Baronia: 2044
+    Alvito: 2051
+    Cuba: 2101
+    Beja: 2115
+
+#South ICS
+
+- type: TRAIN
+  company: CP
+  code: 570
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Oriente: 1002
+    Entrecampos: 1010
+    Sete Rios: 1014
+    Pragal: 1026
+    Pinhal Novo: 1048
+    Grândola: 1119
+    Ermidas-Sado: 1133
+    Funcheira: 1155
+    S. Clara - Sabóia: 1224
+    Messines-Alte: 1252
+    Tunes: 1302
+    Albufeira-Ferreiras: 1307
+    Loulé: 1319
+    Faro: 1330
+- type: TRAIN
+  company: CP
+  code: 572
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Oriente: 1402
+    Entrecampos: 1410
+    Sete Rios: 1414
+    Pragal: 1426
+    Pinhal Novo: 1448
+    Grândola: 1516
+    Ermidas-Sado: 1530
+    Funcheira: 1552
+    S. Clara - Sabóia: 1627
+    Messines-Alte: 1654
+    Tunes: 1704
+    Albufeira-Ferreiras: 1710
+    Loulé: 1722
+    Faro: 1732
+- type: TRAIN
+  company: CP
+  code: 574
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Oriente: 1732
+    Entrecampos: 1740
+    Sete Rios: 1744
+    Pragal: 1756
+    Pinhal Novo: 1818
+    Grândola: 1846
+    Ermidas-Sado: 1901
+    Funcheira: 1929
+    S. Clara - Sabóia: 1957
+    Messines-Alte: 2024
+    Tunes: 2034
+    Albufeira-Ferreiras: 2039
+    Loulé: 2051
+    Faro: 2102

@@ -1,0 +1,12 @@
+- name: Lisboa
+  country: PT
+  capital: true
+- name: Porto
+  country: PT
+  capital: false
+- name: Coimbra
+  country: PT
+  capital: false
+- name: Setúbal
+  country: PT
+  capital: false

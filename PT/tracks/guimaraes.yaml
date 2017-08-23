@@ -1,0 +1,18 @@
+- name: Trofa
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 41.339700407744196
+  lng: -8.554272651672363
+- name: Santo Tirso
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 41.3507377
+  lng: -8.473357599999986
+- name: Guimarães
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 41.4351855
+  lng: -8.294388400000003

@@ -1,0 +1,24 @@
+- name: Sete Rios
+  country: PT
+  border_station: false
+  main_station: false
+  lat: 38.7401502
+  lng: -9.166978599999993.639391599999
+- name: Leiria
+  country: PT
+  border_station: false
+  main_station: false
+  lat: 38.7401502
+  lng: -9.166978599999993
+- name: Torres Vedras
+  country: PT
+  border_station: false
+  main_station: false
+  lat: 38.7401502
+  lng: -9.166978599999993
+- name: Coimbra B
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.224364
+  lng: -8.44046800000001

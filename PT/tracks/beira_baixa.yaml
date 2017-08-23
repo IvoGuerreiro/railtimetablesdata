@@ -1,0 +1,36 @@
+- name: Entroncamento
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 39.461597
+  lng: -8.474179999999933
+- name: Abrantes
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 39.26375649999999
+  lng: -8.213246400000003
+- name: Vila Velha de Rodão
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 39.6550054
+  lng: -7.672996699999999
+- name: Castelo Branco
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 39.81785199999999
+  lng: -7.491733299999964
+- name: Fundão
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.1414014
+  lng: -7.497217200000023
+- name: Covilhã
+  country: PT
+  border_station: false
+  main_station: true
+  lat: 40.2770734
+  lng: -7.4960466

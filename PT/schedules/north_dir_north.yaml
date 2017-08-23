@@ -1,0 +1,677 @@
+#APS
+- type: TRAIN
+  company: CP
+  code: 121
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 0600
+    Lisboa-Oriente: 0609
+    V.F. Xira:
+    Santarém:
+    Entroncamento:
+    Fátima:
+    Caxarias:
+    Pombal:
+    Alfarelos:
+    Coimbra B: 0745
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 0812
+    Estareja:
+    Ovar:
+    Espinho:
+    V.N. Gaia: 0838
+    Porto-Campanhã: 0844
+- type: TRAIN
+  company: CP
+  code: 131
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 0700
+    Lisboa-Oriente: 0709
+    V.F. Xira:
+    Santarém:
+    Entroncamento:
+    Fátima:
+    Caxarias:
+    Pombal:
+    Alfarelos:
+    Coimbra B: 0845
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 0912
+    Estareja:
+    Ovar:
+    Espinho:
+    V.N. Gaia: 0938
+    Porto-Campanhã: 0944
+    Famalicão: 1009
+    Nine: 1015
+    Braga: 1025
+- type: TRAIN
+  company: CP
+  code: 141
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 0800
+    Lisboa-Oriente: 0809
+    V.F. Xira:
+    Santarém: 0839
+    Entroncamento: 0856
+    Fátima:
+    Caxarias:
+    Pombal: 0926
+    Alfarelos:
+    Coimbra B: 0950
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 1016
+    Estareja:
+    Ovar:
+    Espinho: 1036
+    V.N. Gaia: 1046
+    Porto-Campanhã: 1052
+    Trofa: 1121
+    Santo Tirso: 1130
+    Guimarães: 1153
+- type: TRAIN
+  company: CP
+  code: 125
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1200
+    Lisboa-Oriente: 1209
+    V.F. Xira:
+    Santarém:
+    Entroncamento:
+    Fátima:
+    Caxarias:
+    Pombal:
+    Alfarelos:
+    Coimbra B: 1345
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 1412
+    Estareja:
+    Ovar:
+    Espinho:
+    V.N. Gaia: 1438
+    Porto-Campanhã: 1444
+- type: TRAIN
+  company: CP
+  code: 135
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1600
+    Lisboa-Oriente: 1609
+    V.F. Xira:
+    Santarém:
+    Entroncamento:
+    Fátima:
+    Caxarias:
+    Pombal:
+    Alfarelos:
+    Coimbra B: 1745
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 1812
+    Estareja:
+    Ovar:
+    Espinho:
+    V.N. Gaia: 1839
+    Porto-Campanhã: 1844
+    Famalicão: 1909
+    Nine: 1915
+    Braga: 1925
+- type: TRAIN
+  company: CP
+  code: 133
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1400
+    Lisboa-Oriente: 1409
+    V.F. Xira:
+    Santarém:
+    Entroncamento:
+    Fátima:
+    Caxarias:
+    Pombal:
+    Alfarelos:
+    Coimbra B: 1545
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 1612
+    Estareja:
+    Ovar:
+    Espinho:
+    V.N. Gaia: 1839
+    Porto-Campanhã: 1844
+    Famalicão: 1709
+    Nine: 1715
+    Braga: 1725
+- type: TRAIN
+  company: CP
+  code: 127
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1700
+    Lisboa-Oriente: 1709
+    V.F. Xira:
+    Santarém:
+    Entroncamento:
+    Fátima:
+    Caxarias:
+    Pombal:
+    Alfarelos:
+    Coimbra B: 1845
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 1812
+    Estareja:
+    Ovar:
+    Espinho:
+    V.N. Gaia: 1839
+    Porto-Campanhã: 1844
+    Famalicão: 1909
+    Nine: 1915
+    Braga: 1925
+- type: TRAIN
+  company: CP
+  code: 129
+  service: AP
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 2000
+    Lisboa-Oriente: 2009
+    V.F. Xira:
+    Santarém: 2039
+    Entroncamento: 2056
+    Fátima:
+    Caxarias:
+    Pombal: 2126
+    Alfarelos:
+    Coimbra B: 2150
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 2116
+    Estareja:
+    Ovar:
+    Espinho: 2236
+    V.N. Gaia: 2245
+    Porto-Campanhã: 2252
+
+
+#ICS - North
+
+- type: TRAIN
+  company: CP
+  code: 521
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 0730
+    Lisboa-Oriente: 0739
+    V.F. Xira: 0752
+    Santarém: 0813
+    Entroncamento: 0831
+    Fátima:
+    Caxarias:
+    Pombal: 0905
+    Alfarelos:
+    Coimbra B: 0930
+    Pampilhosa:
+    Mealhada: 0944
+    Aveiro: 1001
+    Estareja: 1009
+    Ovar:
+    Espinho: 1024
+    V.N. Gaia: 1034
+    Porto-Campanhã: 1039
+- type: TRAIN
+  company: CP
+  code: 721
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 0930
+    Lisboa-Oriente: 0939
+    V.F. Xira: 0952
+    Santarém: 1013
+    Entroncamento: 1031
+    Fátima:
+    Caxarias: 1051
+    Pombal: 1107
+    Alfarelos:
+    Coimbra B: 1133
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 1201
+    Estareja:
+    Ovar: 1214
+    Espinho: 1224
+    V.N. Gaia: 1234
+    Porto-Campanhã: 1239
+    Famalicão: 1309
+    Nine: 1315
+    Braga: 1325
+- type: TRAIN
+  company: CP
+  code: 523
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1130
+    Lisboa-Oriente: 1139
+    V.F. Xira: 1152
+    Santarém: 1213
+    Entroncamento: 1231
+    Fátima:
+    Caxarias:
+    Pombal: 1305
+    Alfarelos: 1318
+    Coimbra B: 1332
+    Pampilhosa: 1343
+    Mealhada:
+    Aveiro: 1402
+    Estareja:
+    Ovar:
+    Espinho: 1424
+    V.N. Gaia: 1433
+    Porto-Campanhã: 1439
+- type: TRAIN
+  company: CP
+  code: 525
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1530
+    Lisboa-Oriente: 1539
+    V.F. Xira: 1552
+    Santarém: 1613
+    Entroncamento: 1631
+    Fátima:
+    Caxarias:
+    Pombal: 1705
+    Alfarelos: 1719
+    Coimbra B: 1732
+    Pampilhosa: 1743
+    Mealhada:
+    Aveiro: 1802
+    Estareja:
+    Ovar:
+    Espinho: 1824
+    V.N. Gaia: 1833
+    Porto-Campanhã: 1839
+- type: TRAIN
+  company: CP
+  code: 20531
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1725
+    Lisboa-Oriente: 1733
+    V.F. Xira:
+    Santarém: 1810
+    Entroncamento: 1830
+    Fátima:
+    Caxarias: 1850
+    Pombal: 1907
+    Alfarelos:
+    Coimbra B: 1931
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 1959
+    Estareja:
+    Ovar: 2013
+    Espinho: 2023
+    V.N. Gaia: 2033
+    Porto-Campanhã: 2039
+- type: TRAIN
+  company: CP
+  code: 621
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1730
+    Lisboa-Oriente: 1739
+    V.F. Xira: 1752
+    Santarém: 1813
+    Entroncamento: 1831
+    Fátima:
+    Caxarias: 1850
+    Pombal: 1907
+    Alfarelos:
+    Coimbra B: 1932
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 2000
+    Estareja:
+    Ovar: 2014
+    Espinho: 2024
+    V.N. Gaia: 2034
+    Porto-Campanhã: 2039
+    Trofa: 2100
+    Santo Tirso: 2110
+    Guimarães: 2138
+- type: TRAIN
+  company: CP
+  code: 723
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1930
+    Lisboa-Oriente: 1939
+    V.F. Xira: 1952
+    Santarém: 2013
+    Entroncamento: 2031
+    Fátima:
+    Caxarias:
+    Pombal: 2105
+    Alfarelos:
+    Coimbra B: 2130
+    Pampilhosa:
+    Mealhada: 2144
+    Aveiro: 2201
+    Estareja: 2209
+    Ovar:
+    Espinho: 2224
+    V.N. Gaia: 2235
+    Porto-Campanhã: 2239
+    Famalicão: 2309
+    Nine: 2315
+    Braga: 2325
+- type: TRAIN
+  company: CP
+  code: 527
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 2200
+    Lisboa-Oriente: 2209
+    V.F. Xira: 2222
+    Santarém: 2243
+    Entroncamento: 2301
+    Fátima:
+    Caxarias: 2321
+    Pombal: 2337
+    Alfarelos:
+    Coimbra B: 0003
+    Pampilhosa:
+    Mealhada:
+    Aveiro: 0031
+    Estareja:
+    Ovar: 0044
+    Espinho: 0054
+    V.N. Gaia: 0103
+    Porto-Campanhã: 0109
+#ICS - BBaixa
+- type: TRAIN
+  company: CP
+  code: 541
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 0815
+    Lisboa-Oriente: 0823
+    V.F. Xira: 0838
+    Santarém: 0905
+    Entroncamento: 0926
+    Abrantes: 0950
+    Vila Velha de Rodão: 1042
+    Castelo Branco: 1106
+    Fundão: 1142
+    Covilhã: 1156
+- type: TRAIN
+  company: CP
+  code: 543
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1315
+    Lisboa-Oriente: 1323
+    V.F. Xira: 1338
+    Santarém: 1405
+    Entroncamento: 1426
+    Abrantes: 1450
+    Vila Velha de Rodão: 1548
+    Castelo Branco: 1612
+    Fundão: 1648
+    Covilhã: 1702
+- type: TRAIN
+  company: CP
+  code: 545
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1915
+    Lisboa-Oriente: 1923
+    V.F. Xira: 1938
+    Santarém: 2005
+    Entroncamento: 2026
+    Abrantes: 2050
+    Vila Velha de Rodão: 2142
+    Castelo Branco: 2207
+    Fundão: 2243
+    Covilhã: 2257
+#ICS - BAlta
+- type: TRAIN
+  company: CP
+  code: 511
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 0830
+    Lisboa-Oriente: 0839
+    V.F. Xira: 0852
+    Santarém: 0913
+    Entroncamento: 0932
+    Fátima: 0948
+    Caxarias: 0955
+    Pombal: 1011
+    Alfarelos: 1025
+    Coimbra B: 1039
+    Pampilhosa: 1050
+    Mortágua: 1113
+    Santa Comba Dão: 1122
+    Carregal do Sal: 1132
+    Nelas: 1144
+    Mangualde: 1152
+    Gouveia:
+    Fornos de Algodres: 1211
+    Celorico da Beira: 1226
+    Vila Franca das Naves: 1236
+    Guarda: 1251
+- type: TRAIN
+  company: CP
+  code: 513
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1330
+    Lisboa-Oriente: 1339
+    V.F. Xira: 1352
+    Santarém: 1413
+    Entroncamento: 1432
+    Fátima: 1448
+    Caxarias: 1455
+    Pombal: 1511
+    Alfarelos: 1525
+    Coimbra B: 1539
+    Pampilhosa: 1550
+    Mortágua: 1613
+    Santa Comba Dão: 1622
+    Carregal do Sal: 1632
+    Nelas: 1644
+    Mangualde: 1652
+    Gouveia:
+    Fornos de Algodres: 1711
+    Celorico da Beira: 1726
+    Vila Franca das Naves: 1736
+    Guarda: 1751
+- type: TRAIN
+  company: CP
+  code: 517
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1330
+    Lisboa-Oriente: 1339
+    V.F. Xira: 1352
+    Santarém: 1413
+    Entroncamento: 1432
+    Fátima: 1448
+    Caxarias: 1455
+    Pombal: 1511
+    Alfarelos: 1525
+    Coimbra B: 1539
+    Pampilhosa: 1550
+    Mortágua: 1613
+    Santa Comba Dão: 1622
+    Carregal do Sal: 1632
+    Nelas: 1644
+    Mangualde: 1652
+    Gouveia: 1706
+    Fornos de Algodres: 1712
+    Celorico da Beira: 1726
+    Vila Franca das Naves: 1737
+    Guarda: 1751
+- type: TRAIN
+  company: CP
+  code: 515
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1830
+    Lisboa-Oriente: 1839
+    V.F. Xira: 1852
+    Santarém: 1913
+    Entroncamento: 1932
+    Fátima: 1948
+    Caxarias: 1955
+    Pombal: 2011
+    Alfarelos: 2025
+    Coimbra B: 2039
+    Pampilhosa: 2050
+    Mortágua: 2113
+    Santa Comba Dão: 2122
+    Carregal do Sal: 2132
+    Nelas: 2144
+    Mangualde: 2152
+    Gouveia:
+    Fornos de Algodres: 2212
+    Celorico da Beira: 2226
+    Vila Franca das Naves: 2237
+    Guarda: 2251
+- type: TRAIN
+  company: CP
+  code: 519
+  service: IC
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 1830
+    Lisboa-Oriente: 1839
+    V.F. Xira: 1852
+    Santarém: 1913
+    Entroncamento: 1932
+    Fátima: 1948
+    Caxarias: 1955
+    Pombal: 2011
+    Alfarelos: 2025
+    Coimbra B: 2039
+    Pampilhosa: 2050
+    Mortágua: 2113
+    Santa Comba Dão: 2122
+    Carregal do Sal: 2132
+    Nelas: 2144
+    Mangualde: 2152
+    Gouveia: 2206
+    Fornos de Algodres: 2212
+    Celorico da Beira: 2226
+    Vila Franca das Naves: 2237
+    Guarda: 2251
+#Int
+- type: TRAIN
+  company: CP
+  code: 310/335
+  service: INT
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Lisboa-Sta. Apolónia: 2125
+    Lisboa-Oriente: 2134
+    V.F. Xira:
+    Santarém:
+    Entroncamento: 2230
+    Fátima:
+    Caxarias: 2249
+    Pombal: 2306
+    Alfarelos:
+    Coimbra B: 2332
+    Pampilhosa:
+    Mortágua:
+    Santa Comba Dão: 0016
+    Carregal do Sal:
+    Nelas:
+    Mangualde: 0046
+    Gouveia:
+    Fornos de Algodres:
+    Celorico da Beira: 0120
+    Vila Franca das Naves:
+    Guarda: 0145
+    Vilar Formoso: 0220
+#Celta
+- type: TRAIN
+  company: CP
+  code: 421
+  service: CELTA
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Porto-Campanhã: 0815
+    Famalicão: 
+    Nine: 0843
+    Viana do Castelo: 0923
+    Valença: 0957
+- type: TRAIN
+  company: CP
+  code: 423
+  service: CELTA
+  classes: []
+  schedule: A #[E] - Everyday / [W] - Monday to Saturday except Holidays / A - Monday to Friday except Holidays / [B] - Monday to Friday except Holidays
+  times: # NP - Not Passing / NS - Not Stopping
+    Porto-Campanhã: 1910
+    Famalicão: 
+    Nine: 1939
+    Viana do Castelo: 2016
+    Valença: 2050
